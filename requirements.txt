@@ -1,0 +1,4 @@
+art==6.4
+colorama==0.4.6
+termcolor==2.5.0
+tqdm==4.67.1
